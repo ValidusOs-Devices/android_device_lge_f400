@@ -25,7 +25,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/f400/bluetooth
 BOARD_HAVE_BLUETOOTH_BCM := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_f400_defconfig
+TARGET_KERNEL_CONFIG := coocoo_f400_defconfig
 TARGET_REQUIRES_BUMP := true
 
 # Partitions
